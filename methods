@@ -1,0 +1,6 @@
+记录matplotlib中共有多少种方法生成Axes
+（一）pyplot.subplots
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots()
+
+（二）
